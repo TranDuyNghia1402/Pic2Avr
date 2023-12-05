@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?> 
+<project>                                  
+  <executable name="dist/default/production/PIC2AVR.X.production.elf">                 
+    <memory name="program">                 
+      <units>bytes</units>                 
+      <length>525440</length>                 
+      <used>32564</used>                     
+      <free>492876</free>                     
+    </memory>                              
+    <memory name="data">              
+      <units>bytes</units>                 
+      <length>65536</length>                 
+      <used>32344</used>                     
+      <free>33192</free>                     
+    </memory>                              
+  </executable>                            
+</project>                                 
